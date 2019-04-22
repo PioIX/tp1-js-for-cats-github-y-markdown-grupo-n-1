@@ -1,5 +1,5 @@
 # Repositorio de Altman
-## Java para gatos
+## Git Hub
 
 
-![GitHub Logo](GitHubCat.png)
+![GitHub Logo](GitHub-Logo.jpg)
