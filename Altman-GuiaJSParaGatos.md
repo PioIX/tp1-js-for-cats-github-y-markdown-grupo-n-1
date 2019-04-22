@@ -1,7 +1,9 @@
-# _**Repositorio de Altman**_
-## _**Git Hub**_
+![GitHub Seminario](Casa Salesiana.png)
 
-![GitHub Logo](GitHub-Logo.jpg)
+# _**Guía JS para Gatos**_
+## _**(https//JSPARAGATOS.COM/)**_
+
+
 
 
 
