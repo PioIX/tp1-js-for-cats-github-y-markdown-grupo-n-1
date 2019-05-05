@@ -5,7 +5,7 @@
 
 * **1- ¿Qué fue lo que más te gustó de la guía?
 
-  La fácil manera de poder acomodar el texto.
+  Lo básico y simple que es Git para trabajar con texto plano y el hecho de que el formato sea compatible con cualquier plataforma.
 
 * **2- ¿Qué fue lo más fácil?
 
@@ -25,5 +25,5 @@
 
 * **6- ¿Cuáles son los Tips que da el autor para ser un buen programador?
 
-
+  
 
