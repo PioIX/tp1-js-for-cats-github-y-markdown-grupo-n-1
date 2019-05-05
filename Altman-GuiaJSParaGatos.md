@@ -17,7 +17,7 @@
 
 * **4- ¿Qué conocías de otros lenguajes(nombrar el lenguaje)?:no_mouth:
 
-  Conocía por ejemplo el h1 del html que es como el hashtag (no lo escribo literal porque me lo toma como título:unamused:). Del VisualBasic conocía El Image.FromFile("Archivo.jpg") que se asemeja al código para cargar una imagen aca en Git.
+  Conocía por ejemplo el h1 del html que es como el "#". Del VisualBasic conocía El Image.FromFile("Archivo.jpg") que se asemeja al código para cargar una imagen aca en Git.
 
 * **5- ¿Qué es diferente de otros lenguajes(nombrar el lenguaje)?:neutral_face:
 
