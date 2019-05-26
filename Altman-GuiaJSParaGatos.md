@@ -26,3 +26,5 @@
 * **6- ¿Cuáles son los Tips que da el autor para ser un buen programador?**:smile:
 
   
+  
+:one: :zero:
