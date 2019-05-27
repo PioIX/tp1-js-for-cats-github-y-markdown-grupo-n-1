@@ -1,7 +1,9 @@
 ![GitHub Logo](Casa_Salesiana.png)
 
 # _**Guía JS para Gatos**_
-[https://jsparagatos.com/](https://jsparagatos.com/)
+Español: <https://jsparagatos.com/>
+
+English: <http://jsforcats.com/>
 
 * **1- ¿Qué fue lo que más te gustó de la guía?**:ok_hand:
 
