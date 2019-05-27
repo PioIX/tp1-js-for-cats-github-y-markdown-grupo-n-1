@@ -29,4 +29,4 @@
   
   
  ___ 
-I think I deserve a :one: :zero:
+Give me a :one: :zero: please :wink:
